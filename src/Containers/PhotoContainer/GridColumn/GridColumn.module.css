@@ -1,0 +1,5 @@
+.gridCol {
+  display: grid;
+  row-gap: 24px;
+  grid-auto-flow: dense;
+}

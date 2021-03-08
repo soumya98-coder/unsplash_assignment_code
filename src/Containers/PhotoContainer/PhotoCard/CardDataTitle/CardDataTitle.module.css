@@ -1,0 +1,9 @@
+.cardDataTitle {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+.cardDataTitle svg {
+  margin-right: 14px;
+  fill: #d1d1d1;
+}

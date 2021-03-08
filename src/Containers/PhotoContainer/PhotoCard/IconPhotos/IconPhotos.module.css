@@ -1,0 +1,7 @@
+.imageContainer {
+  margin-left: 8px;
+}
+.image {
+  clip-path: circle();
+  padding-left: 0;
+}
